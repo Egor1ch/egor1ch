@@ -1,6 +1,8 @@
 ## Welcome to treasure github 👋
 
-🪙 You can find here a portfolio of my works and projects im currently working on, in this repository you can also find all my certificates i've received completing different courses.
+🪙 You can find here a portfolio of my works and projects im currently working on.
+
+📄 In this repository, you can check all the certificates i've received by completing different courses.
 
 🌱 Im studying Java development, functionality of OS, SEO optimization, WEB development and DDBB.
 
