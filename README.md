@@ -11,3 +11,6 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.egorich76@gmail.com) 
 [![Visit My Website](https://img.shields.io/badge/MY_WEBSITE-D14836?style=for-the-badge&logo=Google&logoColor=white)](https://www.yehorkolesnikov.com)
 
+## :eyes: Counter:
+![](https://komarev.com/ghpvc/?username=Egor1ch&style=for-the-badge)
+
