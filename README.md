@@ -4,7 +4,7 @@
 🪙 You can find here a portfolio of my works and projects im currently working on.<br><br>📄 In Egor1ch repository, you can check all the certificates i've received by completing different courses.<br><br>🌱 Im studying Java development, functionality of OS, SEO optimization, WEB development and DDBB.<br><br>💡 At the moment, my main purpose is to learn about digitalization and automatization of comercial proccesses applying IT and AI.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.egorich76@gmail.com) 
 [![Visit My Website](https://img.shields.io/badge/MY_WEBSITE-D14836?style=for-the-badge&logo=Google&logoColor=white)](https://www.yehorkolesnikov.com)
 
