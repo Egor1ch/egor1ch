@@ -1,4 +1,4 @@
-## Welcome to my github 👋
+# Welcome to my github 👋
 
 # 💫 About Me
 🪙 You can find here a portfolio of my works and projects im currently working on.<br><br>📄 In Egor1ch repository, you can check all the certificates i've received by completing different courses.<br><br>🌱 Im studying Java development, functionality of OS, SEO optimization, WEB development and DDBB.<br><br>💡 At the moment, my main purpose is to learn about digitalization and automatization of comercial proccesses applying IT and AI.
