@@ -9,8 +9,6 @@
 [![](https://visitcount.itsvg.in/api?id=Egor1ch&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.egorich76@gmail.com) 
 [![Visit My Website](https://img.shields.io/badge/MY_WEBSITE-D14836?style=for-the-badge&logo=Google&logoColor=white)](https://www.yehorkolesnikov.com)
